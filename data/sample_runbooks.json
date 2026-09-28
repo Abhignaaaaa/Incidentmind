@@ -1,0 +1,3 @@
+{
+  "redis-cache": "1. Check connection pool metrics. 2. If pool exhausted, increase MAX_CONNECTIONS in config map. 3. Restart API pods."
+}

@@ -1,0 +1,4 @@
+[
+  {"timestamp": "2023-10-01T09:55:00Z", "service": "api", "level": "ERROR", "message": "Redis connection refused"},
+  {"timestamp": "2023-10-01T09:56:00Z", "service": "api", "level": "ERROR", "message": "Timeout waiting for connection from pool"}
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "Redis connection failures",
+    "service": "redis-cache",
+    "severity": "HIGH",
+    "description": "API requests timing out",
+    "symptoms": "API requests timing out, Redis connection refused, Increased request latency",
+    "root_cause": "Redis connection pool exhaustion",
+    "resolution": "Increase pool size and restart affected workers",
+    "created_at": "2023-10-01T10:00:00Z"
+  }
+]
